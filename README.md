@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/last-commit/dermatz/woodoo-buildtools-m2/main"><img src="https://img.shields.io/github/languages/code-size/dermatz/woodoo-buildtools-m2"><img src="https://img.shields.io/github/issues-pr-raw/dermatz/woodoo-buildtools-m2"><img src="https://img.shields.io/github/issues/dermatz/woodoo-buildtools-m2"><img src="https://img.shields.io/github/languages/top/dermatz/woodoo-buildtools-m2">
+<img src="https://img.shields.io/github/last-commit/dermatz/woodoo-buildtools-m2/main"> <img src="https://img.shields.io/github/languages/code-size/dermatz/woodoo-buildtools-m2"> <img src="https://img.shields.io/github/issues-pr-raw/dermatz/woodoo-buildtools-m2"> <img src="https://img.shields.io/github/issues/dermatz/woodoo-buildtools-m2"> <img src="https://img.shields.io/github/languages/top/dermatz/woodoo-buildtools-m2">
 
 # Woodoo Buildtools for Magento 2
 
